@@ -1,5 +1,5 @@
 
-import KDummyDataServer from '../../lib/components/KDummyDataServer';
+import KDataPortal from './KDataPortal';
 
-let server=new KDummyDataServer ();
+let server=new KDataPortal ();
 server.run();
