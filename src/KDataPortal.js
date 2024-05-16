@@ -5,9 +5,9 @@ import chokidar from 'chokidar';
 
 import KHashTable from './lib/utils/KHashTable';
 import KDataTools from './lib/utils/KDataTools';
-import KTableTools from '/lib./utils/KTableTools';
-import KDataSourceDummy from '/lib./KDataSourceDummy';
-import KMessage from '/lib./KMessage'
+import KTableTools from './lib/utils/KTableTools';
+import KDataSourceDummy from './lib/KDataSourceDummy';
+import KMessage from './lib/KMessage'
 import KServerConstants from './lib/KServerConstants';
 import KServerFileTools from './lib/KServerFileTools';
 
